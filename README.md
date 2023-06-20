@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🥰 I'm currently web frontend engineer, UI/UX designer.
+🥰 I'm currently web frontend engineer, UI designer.
 
 <!--
 **DaisukeSugiyama-MT/DaisukeSugiyama-MT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
